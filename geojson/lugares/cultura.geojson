@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-50.6512, -25.4689] },
+      "properties": {
+        "nome": "Casa da Cultura",
+        "tipo": "Centro cultural",
+        "endereco": "Rua XV de Novembro, 100",
+        "telefone": "(42) 3422-1234",
+        "horario": "Seg-Sex 08:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-50.6489, -25.4721] },
+      "properties": {
+        "nome": "Biblioteca Municipal",
+        "tipo": "Biblioteca",
+        "endereco": "Praça da Bandeira, 50",
+        "telefone": "(42) 3422-5678",
+        "horario": "Seg-Sex 09:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-50.6534, -25.4651] },
+      "properties": {
+        "nome": "Teatro Municipal",
+        "tipo": "Teatro",
+        "endereco": "Rua da Cultura, 200",
+        "telefone": "(42) 3422-9012",
+        "horario": "Conforme programação"
+      }
+    }
+  ]
+}
