@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-50.6312, -25.4689] },
+      "properties": {
+        "nome": "Escola 3",
+        "tipo": "Escola",
+        "endereco": "Rua XV de Novembro, 100",
+        "telefone": "(42) 3422-1234",
+        "horario": "Seg-Sex 08:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-50.6289, -25.4721] },
+      "properties": {
+        "nome": "Escola 2",
+        "tipo": "Escola",
+        "endereco": "Praça da Bandeira, 50",
+        "telefone": "(42) 3422-5678",
+        "horario": "Seg-Sex 09:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-50.6534, -25.4851] },
+      "properties": {
+        "nome": "Escola",
+        "tipo": "escola",
+        "endereco": "Rua da Cultura, 200",
+        "telefone": "(42) 3422-9012",
+        "horario": "Conforme programação"
+      }
+    }
+  ]
+}
