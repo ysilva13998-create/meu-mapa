@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-50.6512, -25.4689] },
+      "properties": {
+        "nome": "UBS Central",
+        "categoria": "saude",
+        "subtipo": "UBS",
+        "endereco": "Rua XV de Novembro, 123",
+        "telefone": "(42) 3422-1234",
+        "horario": "07:00 - 19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-50.6489, -25.4721] },
+      "properties": {
+        "nome": "Hospital Santa Casa",
+        "categoria": "saude",
+        "subtipo": "Hospital",
+        "endereco": "Praça da Bandeira, 45",
+        "telefone": "(42) 3422-5678",
+        "horario": "24h"
+      }
+    }
+  ]
+}
