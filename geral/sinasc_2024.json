@@ -1,0 +1,29 @@
+[
+  {
+    "sinasc_2024": 651,
+    "sexo_masc": 328,
+    "sexo_fem": 323,
+    "peso_medio": 3257,
+    "peso_min": 525,
+    "peso_max": 4534,
+    "baixo_peso": 38,
+    "peso_adequado": 576,
+    "macrossomia": 37,
+    "prematuros": 79,
+    "muito_premat": 5,
+    "cesareas": 392,
+    "partos_vaginais": 258,
+    "prenatal_ok": 640,
+    "raca_branca": 638,
+    "raca_preta": 2,
+    "raca_amarela": 1,
+    "raca_parda": 9,
+    "idade_mae_media": 28,
+    "idade_mae_min": 14,
+    "idade_mae_max": 51,
+    "pct_baixo_peso": 5.8,
+    "pct_prematuro": 12.1,
+    "pct_cesarea": 60.2,
+    "pct_prenatal": 98.3
+  }
+]
